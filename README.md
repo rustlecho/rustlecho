@@ -1,6 +1,6 @@
 ## Hi there 👋😄
 
-## 🔧 **Skills & Tools**
+## 🔧 **Software Skills & Tools**
 
 ### **Programming Languages**
 - **Python**, **R**, **C**, **C++**, **Java**, **Bash**, **Julia**
